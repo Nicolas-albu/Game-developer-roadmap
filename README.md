@@ -6,7 +6,7 @@ Está é uma proposta de rotina de estudos para quem deseja construir jogos de a
 
 # Estudos Gerais
 
-Essa é a primeira parte dos seus estudos, e é aqui onde irá aprender o minímo para poder começar os seus estudos de programação! 
+Essa é a primeira parte dos seus estudos, e é aqui onde irá aprender o minímo para poder começar os seus estudos de programação ! 
 
 | Assunto |	Descrição |
 | :---:   | --- |
